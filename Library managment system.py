@@ -1,9 +1,3 @@
-"""
-Date: 18 january 2021
-Author: Sanam kandar
-Project: Student library management system
-"""
-
 
 class Library:
     def __init__(self, listofBooks):
